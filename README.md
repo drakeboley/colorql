@@ -43,6 +43,6 @@ createParamFn(200, paramFn)
 
 ```
 
-To retrieve a binding manually and execute without using a color sequence, you can use `getBinding(color)`
+To retrieve a binding manually for execution without using a color sequence, you can use `getBinding(color)`
 
 To delete bindings, use either `removeBinding(color)` or `removeParamFn(color)`
