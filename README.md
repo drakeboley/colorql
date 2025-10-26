@@ -1,8 +1,9 @@
-ColorQL
-
-Author: Drake Boley
-License:MIT
-
+**ColorQL
+**
+**Author: Drake Boley
+**
+**License:MIT
+**
 This library is for binding data and functions to colors to create color-sequenced execution maps. This will potentially aid optical computing development in the future by providing an easy way to pre-declare JavaScript functions and values that can be called using different color values in real time.
 
 Example simple usage:
